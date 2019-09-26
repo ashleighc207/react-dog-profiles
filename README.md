@@ -4,8 +4,7 @@
 
 ## Description
 
-This is a simple static blog for working with React Router.
-_Note: this is not the official project #13 of the bootcamp - that was a vending machine app. I decided to take a different more practical approach._
+This is a simple static page with profiles of dogs for working with React Router.
 
 - See the site live here: https://ashleighc207.github.io/react-dog-profiles/
 
