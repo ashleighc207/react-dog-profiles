@@ -30,7 +30,9 @@ class Nav extends Component {
   render() {
     return (
       <nav className="Nav">
-        <i className="Nav--icon fas fa-paw"></i>
+        <NavLink exact to={`/`} className="Nav--link">
+          <i className="Nav--icon fas fa-paw"></i>
+        </NavLink>
         {this.state.links}
       </nav>
     );
