@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dog-profiles/static/css/main.cfda8877.chunk.css",
+    "main.js": "/react-dog-profiles/static/js/main.2eacc10f.chunk.js",
+    "main.js.map": "/react-dog-profiles/static/js/main.2eacc10f.chunk.js.map",
+    "runtime-main.js": "/react-dog-profiles/static/js/runtime-main.4a6316a9.js",
+    "runtime-main.js.map": "/react-dog-profiles/static/js/runtime-main.4a6316a9.js.map",
+    "static/js/2.a21352fd.chunk.js": "/react-dog-profiles/static/js/2.a21352fd.chunk.js",
+    "static/js/2.a21352fd.chunk.js.map": "/react-dog-profiles/static/js/2.a21352fd.chunk.js.map",
+    "index.html": "/react-dog-profiles/index.html",
+    "precache-manifest.95107f956d9d4bab58f5992c6227c076.js": "/react-dog-profiles/precache-manifest.95107f956d9d4bab58f5992c6227c076.js",
+    "service-worker.js": "/react-dog-profiles/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/react-dog-profiles/static/css/main.cfda8877.chunk.css.map"
+  }
+}
