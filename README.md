@@ -22,6 +22,7 @@ Download or clone this repo to your machine
 
 - create-react-app
 - Google Fonts - Roboto, Open Sans (400, 600, 700)
+- Font Awesome
 - uuid
 - gh-pages
 - react-router-dom
