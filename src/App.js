@@ -9,7 +9,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Router basename={`${process.env.PUBLIC_URL}/react-dog-profiles/`}>
+      <Router basename={`${process.env.PUBLIC_URL}`}>
         <Nav />
         <Switch>
           <Route exact path="/" component={Profiles} />

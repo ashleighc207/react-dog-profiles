@@ -2,7 +2,7 @@ const dogs = [
   {
     id: "1",
     name: "Bucky",
-    img: "/bucky.jpeg",
+    img: `${process.env.PUBLIC_URL}/bucky.jpeg`,
     facts: [
       "loves playing dress up",
       "will give you side eye",
