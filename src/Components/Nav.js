@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Nav.css";
-import { NavLink } from "react-router-dom";
+import { NavLink, withRouter } from "react-router-dom";
 import dogs from "../Models/dogs.js";
 
 class Nav extends Component {
@@ -38,4 +38,4 @@ class Nav extends Component {
     );
   }
 }
-export default Nav;
+export default withRouter(Nav);
