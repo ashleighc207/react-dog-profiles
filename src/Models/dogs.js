@@ -12,7 +12,7 @@ const dogs = [
   {
     id: "2",
     name: "Almond",
-    img: "/almond.jpeg",
+    img: `${process.env.PUBLIC_URL}/almond.jpeg`,
     facts: [
       "loves the water",
       "always full of energy",
@@ -22,7 +22,7 @@ const dogs = [
   {
     id: "3",
     name: "Lily",
-    img: "/lily.jpeg",
+    img: `${process.env.PUBLIC_URL}/lily.jpeg`,
     facts: [
       "definitely a princess",
       "randomly brings home flowers",
@@ -32,7 +32,7 @@ const dogs = [
   {
     id: "4",
     name: "Snuggles",
-    img: "/snuggles.jpeg",
+    img: `${process.env.PUBLIC_URL}/snuggles.jpeg`,
     facts: [
       "naps literally all the time",
       "will sleep anywhere he fits",
@@ -42,7 +42,7 @@ const dogs = [
   {
     id: "5",
     name: "Jack",
-    img: "/jack.jpeg",
+    img: `${process.env.PUBLIC_URL}/jack.jpeg`,
     facts: [
       "loves going to the park",
       "always looks like he is smiling",
@@ -52,7 +52,7 @@ const dogs = [
   {
     id: "6",
     name: "Super Dog",
-    img: "/super-dog.jpeg",
+    img: `${process.env.PUBLIC_URL}/super-dog.jpeg`,
     facts: [
       "saves the world daily",
       "has secret identity",
