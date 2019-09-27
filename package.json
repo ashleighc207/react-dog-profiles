@@ -2,7 +2,7 @@
   "name": "react-dog-profiles",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ashleighc207.github.io/react-dog-profiles",
+  "homepage": "https://ashleighc207.github.io/react-dog-profiles/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
