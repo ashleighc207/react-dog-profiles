@@ -1,0 +1,29 @@
+.DogContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.DogContent--img {
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(33, 33, 33, 0.4);
+}
+
+.DogContent--name {
+  font-family: "Quicksand", sans-serif;
+  font-size: 50px;
+  margin: 10px;
+  color: rgba(5, 1, 91, 0.8);
+}
+
+.DogContent--fact {
+  letter-spacing: 1.2px;
+}
+
+.DogContent--fact_list {
+  margin: 0px;
+  padding-left: 80px;
+  color: #212121;
+}
