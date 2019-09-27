@@ -8,8 +8,8 @@ This is a simple static page with profiles of dogs for working with React Router
 
 - See the site live here: https://ashleighc207.github.io/react-dog-profiles/
 
-<!-- <img src="example.png" alt="Example image" width="350" align="center"/>
-<img src="example-1.png" alt="Example image" width="350" align="center"/> -->
+<img src="example.png" alt="Example image" width="350" align="center"/>
+<img src="example-1.png" alt="Example image" width="350" align="center"/>
 
 ## How to Launch the App
 
