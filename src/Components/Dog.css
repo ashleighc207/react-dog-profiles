@@ -1,18 +1,29 @@
+.Dog--link {
+  text-decoration: none;
+}
+
 .Dog--img {
   /* display: none; */
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 
-.Dog--profile {
+.Dog {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-top: 40px;
   margin: 20px 20px;
-  height: 200px;
-  width: 300px;
+  height: 300px;
+  width: 400px;
   border-radius: 5px;
-  box-shadow: 2px 2px 8px rgba(33, 33, 33, 0.4);
+  box-shadow: 2px 2px 8px rgba(5, 1, 91, 0.3);
+}
+
+.Dog--name {
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+  color: rgba(5, 1, 91, 0.8);
+  font-size: 28px;
 }

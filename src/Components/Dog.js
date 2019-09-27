@@ -4,7 +4,7 @@ import "./Dog.css";
 class Dog extends Component {
   render() {
     return (
-      <section className="Dog--profile">
+      <section className="Dog">
         <div className="Dog--img_container">
           <img
             className="Dog--img"
