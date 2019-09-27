@@ -1,2 +1,0 @@
-(window["webpackJsonpreact-dog-profiles"]=window["webpackJsonpreact-dog-profiles"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o),c=t(2),a=t.n(c);t(8),t(9);var i=function(){return r.a.createElement("div",{className:"App"})};a.a.render(r.a.createElement(i,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.2eacc10f.chunk.js.map

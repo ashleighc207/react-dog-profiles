@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-dog-profiles/static/css/main.cfda8877.chunk.css",
-    "main.js": "/react-dog-profiles/static/js/main.2eacc10f.chunk.js",
-    "main.js.map": "/react-dog-profiles/static/js/main.2eacc10f.chunk.js.map",
+    "main.css": "/react-dog-profiles/static/css/main.aa605f15.chunk.css",
+    "main.js": "/react-dog-profiles/static/js/main.ebf106c7.chunk.js",
+    "main.js.map": "/react-dog-profiles/static/js/main.ebf106c7.chunk.js.map",
     "runtime-main.js": "/react-dog-profiles/static/js/runtime-main.4a6316a9.js",
     "runtime-main.js.map": "/react-dog-profiles/static/js/runtime-main.4a6316a9.js.map",
-    "static/js/2.a21352fd.chunk.js": "/react-dog-profiles/static/js/2.a21352fd.chunk.js",
-    "static/js/2.a21352fd.chunk.js.map": "/react-dog-profiles/static/js/2.a21352fd.chunk.js.map",
+    "static/js/2.7614198c.chunk.js": "/react-dog-profiles/static/js/2.7614198c.chunk.js",
+    "static/js/2.7614198c.chunk.js.map": "/react-dog-profiles/static/js/2.7614198c.chunk.js.map",
     "index.html": "/react-dog-profiles/index.html",
-    "precache-manifest.95107f956d9d4bab58f5992c6227c076.js": "/react-dog-profiles/precache-manifest.95107f956d9d4bab58f5992c6227c076.js",
+    "precache-manifest.198be027b21d3caa9e94fceca259ea37.js": "/react-dog-profiles/precache-manifest.198be027b21d3caa9e94fceca259ea37.js",
     "service-worker.js": "/react-dog-profiles/service-worker.js",
-    "static/css/main.cfda8877.chunk.css.map": "/react-dog-profiles/static/css/main.cfda8877.chunk.css.map"
+    "static/css/main.aa605f15.chunk.css.map": "/react-dog-profiles/static/css/main.aa605f15.chunk.css.map"
   }
 }
